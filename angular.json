@@ -24,7 +24,7 @@
               "chart.js"
             ],
             "aot": true,
-            "baseHref": "/architectui/",
+            "baseHref": "/apex/",
             "outputPath": "docs",
             "index": "src/index.html",
             "main": "src/main.ts",
