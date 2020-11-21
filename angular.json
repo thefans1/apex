@@ -24,7 +24,8 @@
               "chart.js"
             ],
             "aot": true,
-            "outputPath": "dist",
+            "baseHref": "/architectui/",
+            "outputPath": "docs",
             "index": "src/index.html",
             "main": "src/main.ts",
             "tsConfig": "src/tsconfig.app.json",
